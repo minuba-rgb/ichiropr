@@ -1,200 +1,200 @@
 [
     {
         "id": 1,
-        "anime": "Sky of Twilight",
-        "name": "Kanako Itou",
+        "anime": "Kanako Itou - Sky of Twilight",
+        "name": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
         "video": "https://www.youtube.com/watch?v=2Hm_jcpTycI"
             },
     {
         "id": 2,
-        "anime": "Koishi Disco",
-        "name": "SUMIKO",
+        "anime": "SUMIKO - Koishi Disco",
+        "name": "Touhou Hero of Ice Fairy",
         "video": "https://www.youtube.com/watch?v=_Ri3lBSybSo"
             },
     {
         "id": 3,
-        "anime": "Blue, Summertime Blue",
-        "name": "Hotaru Murasaki",
+        "anime": "Hotaru Murasaki - Blue, Summertime Blue",
+        "name": "Aonatsu Line",
         "video": "https://www.youtube.com/watch?v=5hJOgobafHM"
             },
     {
         "id": 4,
-        "anime": "Vitrum",
-        "name": "BEMANI Sound Team Yvya",
+        "anime": "BEMANI Sound Team Yvya - Vitrum",
+        "name": "Beatmania IIDX 28 BISTROVER",
         "video": "https://www.youtube.com/watch?v=bxZBu56tZVM"
             },
     {
         "id": 5,
-        "anime": "Stage 7",
-        "name": "DOVA-SYNDROME",
+        "anime": "DOVA-SYNDROME - Stage 7",
+        "name": "Like Dreamer",
         "video": "https://www.youtube.com/watch?v=ElJMndOHETY"
             },
     {
         "id": 6,
-        "anime": "What Am I Fighting For",
-        "name": "Haloweak feat. AKINO with bless4",
+        "anime": "Haloweak feat. AKINO with bless4 - What Am I Fighting For",
+        "name": "Girls' Frontline",
         "video": "https://www.youtube.com/watch?v=7RbNUxVBEFg"
             },
     {
         "id": 7,
-        "anime": "Devil Trigger",
-        "name": "Casey Edwards feat. Ali Edwards",
+        "anime": "Casey Edwards feat. Ali Edwards - Devil Trigger",
+        "name": "Devil May Cry 5",
         "video": "https://www.youtube.com/watch?v=eICijnr1k_I"
             },
     {
         "id": 8,
-        "anime": "Pioneer Impact",
-        "name": "L'Antica x SHHis",
+        "anime": "L'Antica x SHHis - Pioneer Impact",
+        "name": "THE iDOLM@STER Shiny Colors",
         "video": "https://www.youtube.com/watch?v=svlhdo0tMQY"
             },
     {
         "id": 9,
-        "anime": "I Really Want to Stay at Your House",
-        "name": "Rosa Walton & Hallie Coggins",
+        "anime": "Rosa Walton & Hallie Coggins - I Really Want to Stay at Your House",
+        "name": "Cyberpunk 2077",
         "video": "https://www.youtube.com/watch?v=gzbLODUb1sA"
             },
     {
         "id": 10,
-        "anime": "Red Flag",
-        "name": "Billy Talent",
+        "anime": "Billy Talent - Red Flag",
+        "name": "Burnout Revenge",
         "video": "https://www.youtube.com/watch?v=eGdV32rPL4I"
             },
     {
         "id": 11,
-        "anime": "THE APPLE IS CAST!",
-        "name": "Yumeno Yuki",
+        "anime": "Yumeno Yuki - THE APPLE IS CAST!",
+        "name": "NUKITASHI",
         "video": "https://www.youtube.com/watch?v=hhXp5PGxlJQ"
             },
     {
         "id": 12,
-        "anime": "e of s",
-        "name": "SawanoHiroyuki[nZk], mizuki",
+        "anime": "SawanoHiroyuki[nZk], mizuki - e of s",
+        "name": "Soul Reverse Zero",
         "video": "https://www.youtube.com/watch?v=mIHT6akudMo"
             },
     {
         "id": 13,
-        "anime": "Still Alive",
-        "name": "Ellen McLain",
+        "anime": "Ellen McLain - Still Alive",
+        "name": "Portal",
         "video": "https://www.youtube.com/watch?v=SXRteMSSZ14"
             },
     {
         "id": 14,
-        "anime": "Age of War - Theme Soundtrack",
-        "name": "Waterflame",
+        "anime": "Waterflame - Age of War - Theme Soundtrack",
+        "name": "Age of War",
         "video": "https://www.youtube.com/watch?v=qY9gK2Gqwik"
             },
     {
         "id": 15,
-        "anime": "Dearly Beloved (KINGDOM HEARTS II Version)",
-        "name": "Yoko Shimomura",
+        "anime": "Yoko Shimomura - Dearly Beloved (KINGDOM HEARTS II Version)",
+        "name": "KINGDOM HEARTS II",
         "video": "https://www.youtube.com/watch?v=sihC5l_gIak"
             },
     {
         "id": 16,
-        "anime": "Alpha",
-        "name": "C418",
+        "anime": "C418 - Alpha",
+        "name": "Minecraft",
         "video": "https://www.youtube.com/watch?v=uNCGM7FJ8wQ"
             },
     {
         "id": 17,
-        "anime": "MAYHEM",
-        "name": "RoughSketch x CANVAS feat. Quimar",
+        "anime": "RoughSketch x CANVAS feat. Quimar - MAYHEM",
+        "name": "SOUND VOLTEX: Vivid Wave",
         "video": "https://www.youtube.com/watch?v=p0UdsdQWUdM"
             },
     {
         "id": 18,
-        "anime": "Alicia",
-        "name": "Lorien Testard, Alice Duport-Percier",
+        "anime": "Lorien Testard, Alice Duport-Percier - Alicia",
+        "name": "Clair Obscur: Expedition 33",
         "video": "https://www.youtube.com/watch?v=p00EF6_b5pI"
             },
     {
         "id": 19,
-        "anime": "Lake",
-        "name": "Go Ichinose",
+        "anime": "Go Ichinose - Lake",
+        "name": "Pokémon Diamond, Pearl & Platinum",
         "video": "https://www.youtube.com/watch?v=2X1oNw7se1c"
             },
     {
         "id": 20,
-        "anime": "A Stranger I Remain",
-        "name": "Free Dominguez",
+        "anime": "Free Dominguez - A Stranger I Remain",
+        "name": "Metal Gear Rising: Revengeance",
         "video": "https://www.youtube.com/watch?v=fY97V9NvSjA"
             },
     {
         "id": 21,
-        "anime": "WE'RE CCC",
-        "name": "EmoCosine",
+        "anime": "EmoCosine - WE'RE CCC",
+        "name": "Blue Archive",
         "video": "https://www.youtube.com/watch?v=8pi6ztlikIQ"
             },
     {
         "id": 22,
-        "anime": "Behemoth Boss Battle : Wrecking Storm",
-        "name": "Cosmograph",
+        "anime": "Cosmograph - Behemoth Boss Battle : Wrecking Storm",
+        "name": "Goddess of Victory: Nikke",
         "video": "https://www.youtube.com/watch?v=RtVpwKH8yEg"
             },
     {
         "id": 23,
-        "anime": "Death to Squishies",
-        "name": "Melissa Disney",
+        "anime": "Melissa Disney - Death to Squishies",
+        "name": "Ratchet & Clank 3",
         "video": "https://www.youtube.com/watch?v=1eBBQ8DmkPA"
             },
     {
         "id": 24,
-        "anime": "Fuantei na Kamisama",
-        "name": "Suara",
+        "anime": "Suara - Fuantei na Kamisama",
+        "name": "Utawarerumono: Futari no Hakuoro",
         "video": "https://www.youtube.com/watch?v=0sYtsNVh9o8"
             },
     {
         "id": 25,
-        "anime": "Extras",
-        "name": "Daisuke Ishiwatari",
+        "anime": "Daisuke Ishiwatari - Extras",
+        "name": "Guilty Gear Strive",
         "video": "https://www.youtube.com/watch?v=rhlZY4D8jlQ"
             },
     {
         "id": 26,
-        "anime": "The Twin Moon Knight",
-        "name": "Tai Tomisawa",
+        "anime": "Tai Tomisawa - The Twin Moon Knight",
+        "name": "ELDEN RING Shadow Of The Erdtree",
         "video": "https://www.youtube.com/watch?v=yK61JMXCFVk"
             },
     {
         "id": 27,
-        "anime": "Super Smash Bros. Brawl Main Theme",
-        "name": "Nobuo Uematsu",
+        "anime": "Nobuo Uematsu - Super Smash Bros. Brawl Main Theme",
+        "name": "Super Smash Bros. Brawl",
         "video": "https://www.youtube.com/watch?v=zeKE0NHUtUw"
             },
     {
         "id": 28,
-        "anime": "EXEC_VIENA/.",
-        "name": "Shimotsuki Haruka",
+        "anime": "Shimotsuki Haruka - EXEC_VIENA/.",
+        "name": "Ar tonelico II: Sekai ni Hibiku Shoujotachi no Metafalica",
         "video": "https://www.youtube.com/watch?v=f8pToPj2rjU"
             },
     {
         "id": 29,
-        "anime": "Noborenai Sakamichi",
-        "name": "monet",
+        "anime": "monet - Noborenai Sakamichi",
+        "name": "Subarashiki Hibi ~Furenzoku Sonzai~",
         "video": "https://www.youtube.com/watch?v=8SJT0w1NI2Y"
             },
     {
         "id": 30,
-        "anime": "REMIX RUMBLE (Steve Aoki Remix)",
-        "name": "Steve Aoki",
+        "anime": "Steve Aoki - REMIX RUMBLE (Steve Aoki Remix)",
+        "name": "Teamfight Tactics",
         "video": "https://www.youtube.com/watch?v=RkchWggC2_Q"
             },
     {
         "id": 31,
-        "anime": "smooooch･∀･",
-        "name": "kors k",
+        "anime": "kors k - smooooch･∀･",
+        "name": "beatmaniaIIDX 16 EMPRESS",
         "video": "https://www.youtube.com/watch?v=BxlpIWq9Dbo"
             },
     {
         "id": 32,
-        "anime": "Secunda",
-        "name": "Jeremy Soule",
+        "anime": "Jeremy Soul - Secunda",
+        "name": "The Elder Scrolls V: Skyrim",
         "video": "https://www.youtube.com/watch?v=iqkQRgGdAPo"
             },
     {
         "id": 33,
-        "anime": "Jishou Mushoku",
-        "name": "Nightcord at 25:00 x Hatsune Miku",
+        "anime": "Nightcord at 25:00 x Hatsune Miku - Jishou Mushoku",
+        "name": "HATSUNE MIKU: COLORFUL STAGE!",
         "video": "https://www.youtube.com/watch?v=GhA-USpkgcg"
             }
 
