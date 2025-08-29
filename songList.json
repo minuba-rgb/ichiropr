@@ -1,201 +1,182 @@
 [
-    {
-        "id": 1,
-        "anime": "Kanako Itou - Sky of Twilight",
-        "name": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
-        "video": "https://www.youtube.com/watch?v=2Hm_jcpTycI"
-            },
-    {
-        "id": 2,
-        "anime": "SUMIKO - Koishi Disco",
-        "name": "Touhou Hero of Ice Fairy",
-        "video": "https://www.youtube.com/watch?v=_Ri3lBSybSo"
-            },
-    {
-        "id": 3,
-        "anime": "Hotaru Murasaki - Blue, Summertime Blue",
-        "name": "Aonatsu Line",
-        "video": "https://www.youtube.com/watch?v=5hJOgobafHM"
-            },
-    {
-        "id": 4,
-        "anime": "BEMANI Sound Team Yvya - Vitrum",
-        "name": "Beatmania IIDX 28 BISTROVER",
-        "video": "https://www.youtube.com/watch?v=bxZBu56tZVM"
-            },
-    {
-        "id": 5,
-        "anime": "DOVA-SYNDROME - Stage 7",
-        "name": "Like Dreamer",
-        "video": "https://www.youtube.com/watch?v=ElJMndOHETY"
-            },
-    {
-        "id": 6,
-        "anime": "Haloweak feat. AKINO with bless4 - What Am I Fighting For",
-        "name": "Girls' Frontline",
-        "video": "https://www.youtube.com/watch?v=7RbNUxVBEFg"
-            },
-    {
-        "id": 7,
-        "anime": "Casey Edwards feat. Ali Edwards - Devil Trigger",
-        "name": "Devil May Cry 5",
-        "video": "https://www.youtube.com/watch?v=eICijnr1k_I"
-            },
-    {
-        "id": 8,
-        "anime": "L'Antica x SHHis - Pioneer Impact",
-        "name": "THE iDOLM@STER Shiny Colors",
-        "video": "https://www.youtube.com/watch?v=svlhdo0tMQY"
-            },
-    {
-        "id": 9,
-        "anime": "Rosa Walton & Hallie Coggins - I Really Want to Stay at Your House",
-        "name": "Cyberpunk 2077",
-        "video": "https://www.youtube.com/watch?v=gzbLODUb1sA"
-            },
-    {
-        "id": 10,
-        "anime": "Billy Talent - Red Flag",
-        "name": "Burnout Revenge",
-        "video": "https://www.youtube.com/watch?v=eGdV32rPL4I"
-            },
-    {
-        "id": 11,
-        "anime": "Yumeno Yuki - THE APPLE IS CAST!",
-        "name": "NUKITASHI",
-        "video": "https://www.youtube.com/watch?v=hhXp5PGxlJQ"
-            },
-    {
-        "id": 12,
-        "anime": "SawanoHiroyuki[nZk], mizuki - e of s",
-        "name": "Soul Reverse Zero",
-        "video": "https://www.youtube.com/watch?v=mIHT6akudMo"
-            },
-    {
-        "id": 13,
-        "anime": "Ellen McLain - Still Alive",
-        "name": "Portal",
-        "video": "https://www.youtube.com/watch?v=SXRteMSSZ14"
-            },
-    {
-        "id": 14,
-        "anime": "Waterflame - Age of War - Theme Soundtrack",
-        "name": "Age of War",
-        "video": "https://www.youtube.com/watch?v=qY9gK2Gqwik"
-            },
-    {
-        "id": 15,
-        "anime": "Yoko Shimomura - Dearly Beloved (KINGDOM HEARTS II Version)",
-        "name": "KINGDOM HEARTS II",
-        "video": "https://www.youtube.com/watch?v=sihC5l_gIak"
-            },
-    {
-        "id": 16,
-        "anime": "C418 - Alpha",
-        "name": "Minecraft",
-        "video": "https://www.youtube.com/watch?v=uNCGM7FJ8wQ"
-            },
-    {
-        "id": 17,
-        "anime": "RoughSketch x CANVAS feat. Quimar - MAYHEM",
-        "name": "SOUND VOLTEX: Vivid Wave",
-        "video": "https://www.youtube.com/watch?v=p0UdsdQWUdM"
-            },
-    {
-        "id": 18,
-        "anime": "Lorien Testard, Alice Duport-Percier - Alicia",
-        "name": "Clair Obscur: Expedition 33",
-        "video": "https://www.youtube.com/watch?v=p00EF6_b5pI"
-            },
-    {
-        "id": 19,
-        "anime": "Go Ichinose - Lake",
-        "name": "Pokémon Diamond, Pearl & Platinum",
-        "video": "https://www.youtube.com/watch?v=2X1oNw7se1c"
-            },
-    {
-        "id": 20,
-        "anime": "Free Dominguez - A Stranger I Remain",
-        "name": "Metal Gear Rising: Revengeance",
-        "video": "https://www.youtube.com/watch?v=fY97V9NvSjA"
-            },
-    {
-        "id": 21,
-        "anime": "EmoCosine - WE'RE CCC",
-        "name": "Blue Archive",
-        "video": "https://www.youtube.com/watch?v=8pi6ztlikIQ"
-            },
-    {
-        "id": 22,
-        "anime": "Cosmograph - Behemoth Boss Battle : Wrecking Storm",
-        "name": "Goddess of Victory: Nikke",
-        "video": "https://www.youtube.com/watch?v=7qZRa1G2di0&"
-            },
-    {
-        "id": 23,
-        "anime": "Melissa Disney - Death to Squishies",
-        "name": "Ratchet & Clank 3",
-        "video": "https://www.youtube.com/watch?v=1eBBQ8DmkPA"
-            },
-    {
-        "id": 24,
-        "anime": "Suara - Fuantei na Kamisama",
-        "name": "Utawarerumono: Futari no Hakuoro",
-        "video": "https://www.youtube.com/watch?v=0sYtsNVh9o8"
-            },
-    {
-        "id": 25,
-        "anime": "Daisuke Ishiwatari - Extras",
-        "name": "Guilty Gear Strive",
-        "video": "https://www.youtube.com/watch?v=rhlZY4D8jlQ"
-            },
-    {
-        "id": 26,
-        "anime": "Tai Tomisawa - The Twin Moon Knight",
-        "name": "ELDEN RING Shadow Of The Erdtree",
-        "video": "https://www.youtube.com/watch?v=yK61JMXCFVk"
-            },
-    {
-        "id": 27,
-        "anime": "Nobuo Uematsu - Super Smash Bros. Brawl Main Theme",
-        "name": "Super Smash Bros. Brawl",
-        "video": "https://www.youtube.com/watch?v=zeKE0NHUtUw"
-            },
-    {
-        "id": 28,
-        "anime": "Shimotsuki Haruka - EXEC_VIENA/.",
-        "name": "Ar tonelico II: Sekai ni Hibiku Shoujotachi no Metafalica",
-        "video": "https://www.youtube.com/watch?v=f8pToPj2rjU"
-            },
-    {
-        "id": 29,
-        "anime": "monet - Noborenai Sakamichi",
-        "name": "Subarashiki Hibi ~Furenzoku Sonzai~",
-        "video": "https://www.youtube.com/watch?v=8SJT0w1NI2Y"
-            },
-    {
-        "id": 30,
-        "anime": "Steve Aoki - REMIX RUMBLE (Steve Aoki Remix)",
-        "name": "Teamfight Tactics",
-        "video": "https://www.youtube.com/watch?v=RkchWggC2_Q"
-            },
-    {
-        "id": 31,
-        "anime": "kors k - smooooch･∀･",
-        "name": "beatmaniaIIDX 16 EMPRESS",
-        "video": "https://www.youtube.com/watch?v=BxlpIWq9Dbo"
-            },
-    {
-        "id": 32,
-        "anime": "Jeremy Soul - Secunda",
-        "name": "The Elder Scrolls V: Skyrim",
-        "video": "https://www.youtube.com/watch?v=iqkQRgGdAPo"
-            },
-    {
-        "id": 33,
-        "anime": "Nightcord at 25:00 x Hatsune Miku - Jishou Mushoku",
-        "name": "HATSUNE MIKU: COLORFUL STAGE!",
-        "video": "https://www.youtube.com/watch?v=GhA-USpkgcg"
-            }
-
+{
+  "id": 1,
+  "artist": "Polyphia",
+  "name": "Playing God",
+  "video": "https://www.youtube.com/watch?v=Z5NoQg8LdDk"
+},
+{
+  "id": 2,
+  "artist": "Shiro Sagisu",
+  "name": "BAREFOOT IN THE PARK",
+  "video": "https://www.youtube.com/watch?v=XcOCSZ3F84A"
+},
+{
+  "id": 3,
+  "artist": "Mitsukiyo",
+  "name": "Unwelcome School",
+  "video": "https://www.youtube.com/watch?v=pEg_d2f6myw"
+},
+{
+  "id": 4,
+  "artist": "ZUN",
+  "name": "A Midnight Fairy Dance",
+  "video": "https://www.youtube.com/watch?v=YOOQvpMzI_k"
+},
+{
+  "id": 5,
+  "artist": "Evan Call",
+  "name": "Zoltraak",
+  "video": "https://www.youtube.com/watch?v=M7gm_r8hXoU"
+},
+{
+  "id": 6,
+  "artist": "Roselia",
+  "name": "Yakusoku (instrumental)",
+  "video": "https://www.youtube.com/watch?v=xjxwGE2GvdM"
+},
+{
+  "id": 7,
+  "artist": "Natsu",
+  "name": "Regression",
+  "video": "https://www.youtube.com/watch?v=E76IuF6iQCU"
+},
+{
+  "id": 8,
+  "artist": "Evan Call",
+  "name": "Journey of a Lifetime",
+  "video": "https://www.youtube.com/watch?v=nOn0pDmrGco"
+},
+{
+  "id": 9,
+  "artist": "Hans Zimmer",
+  "name": "Oogway Ascends - Orchestra Version",
+  "video": "https://www.youtube.com/watch?v=CqeXOUjJjCY"
+},
+{
+  "id": 10,
+  "artist": "a.hisa",
+  "name": "Logical Stimulus",
+  "video": "https://www.youtube.com/watch?v=ft-HOsTzQQ4"
+},
+{
+  "id": 11,
+  "artist": "goreshit",
+  "name": "2nd dose (here)",
+  "video": "https://www.youtube.com/watch?v=ft4GgXS03NE"
+},
+{
+  "id": 12,
+  "artist": "Chouchou-P",
+  "name": "Sadistic Queen (Inst）",
+  "video": "https://www.youtube.com/watch?v=Nfes_tCO6pE"
+},
+{
+  "id": 13,
+  "artist": "waiting to die",
+  "name": "daydreams",
+  "video": "https://www.youtube.com/watch?v=p0xx8IJy3fQ"
+},
+{
+  "id": 14,
+  "artist": "Demetori",
+  "name": "Necrofantasia",
+  "video": "https://www.youtube.com/watch?v=2WHdrd70X_I"
+},
+{
+  "id": 15,
+  "artist": "Infected Mushroom",
+  "name": "Head of NASA",
+  "video": "https://www.youtube.com/watch?v=PKAeXBCLcUY"
+},
+{
+  "id": 16,
+  "artist": "Yoshihiro Sakaguchi (aka Yuukichan's Papa)",
+  "name": "DuckTales Music (NES) - The Moon Theme",
+  "video": "https://www.youtube.com/watch?v=KF32DRg9opA"
+},
+{
+  "id": 17,
+  "artist": "Nobuyoshi Suzuki",
+  "name": "Ludwig, the Holy Blade",
+  "video": "https://www.youtube.com/watch?v=XCLE0x5jXM4"
+},
+{
+  "id": 18,
+  "artist": "Rengoku-Teien",
+  "name": "Kikoete Imasu ka Bokura no Koe ga...",
+  "video": "https://www.youtube.com/watch?v=7CA_FHIbo2w"
+},
+{
+  "id": 19,
+  "artist": "Aphex Twin",
+  "name": "#20",
+  "video": "https://www.youtube.com/watch?v=cCD8uT9C90M"
+},
+{
+  "id": 20,
+  "artist": "Yuki Kajiura",
+  "name": "Sis Puella Magica!",
+  "video": "https://www.youtube.com/watch?v=wT0lWL_TU7w"
+},
+{
+  "id": 21,
+  "artist": "Ludwig Göransson",
+  "name": "Can You Hear The Music",
+  "video": "https://www.youtube.com/watch?v=4JZ-o3iAJv4"
+},
+{
+  "id": 22,
+  "artist": "L'Antica",
+  "name": "Break Out Serendipity (Off Vocal)",
+  "video": "https://www.youtube.com/watch?v=Cfhzdk5Sgmc"
+},
+{
+  "id": 23,
+  "artist": "ARForest",
+  "name": "The Last Page",
+  "video": "https://www.youtube.com/watch?v=1Z4O8bKoLlU"
+},
+{
+  "id": 24,
+  "artist": "pertyuk music",
+  "name": "RE Aoharu x Luminous Memory",
+  "video": "https://www.youtube.com/watch?v=g_m2jUeWV4w"
+},
+{
+  "id": 25,
+  "artist": "Lorna Shore",
+  "name": "Pain Remains III: In a Sea of Fire (Instrumental)",
+  "video": "https://www.youtube.com/watch?v=0QvYyqQrTRI"
+},
+{
+  "id": 26,
+  "artist": "Hans Zimmer",
+  "name": "Jack Sparrow",
+  "video": "https://www.youtube.com/watch?v=JZeNYaTmVP4"
+},
+{
+  "id": 27,
+  "artist": "SawanoHiroyuki[nZk]",
+  "name": "Avid (instrumental)",
+  "video": "https://www.youtube.com/watch?v=Kqg6a2Bk4uk"
+},
+{
+  "id": 28,
+  "artist": "Matsumoto Fuminori",
+  "name": "Yoru no Himawari",
+  "video": "https://www.youtube.com/watch?v=dQ5g1Va7CjI"
+},
+{
+  "id": 29,
+  "artist": "Akito Matsuda",
+  "name": "Liz and the Blue Bird – Third Movement: “A Decision for Love”",
+  "video": "https://www.youtube.com/watch?v=gURjYF02pIs"
+},
+{
+  "id": 30,
+  "artist": "Gustavo Santaolalla",
+  "name": "The Last of Us",
+  "video": "https://www.youtube.com/watch?v=pfA5UqEU_80"
+}
 ]   
