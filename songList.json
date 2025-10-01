@@ -1,182 +1,200 @@
 [
-{
-  "id": 1,
-  "anime": "Polyphia",
-  "name": "Playing God",
-  "video": "https://www.youtube.com/watch?v=Z5NoQg8LdDk"
-},
-{
-  "id": 2,
-  "anime": "Shiro Sagisu",
-  "name": "BAREFOOT IN THE PARK",
-  "video": "https://www.youtube.com/watch?v=XcOCSZ3F84A"
-},
-{
-  "id": 3,
-  "anime": "Mitsukiyo",
-  "name": "Unwelcome School",
-  "video": "https://www.youtube.com/watch?v=pEg_d2f6myw"
-},
-{
-  "id": 4,
-  "anime": "ZUN",
-  "name": "A Midnight Fairy Dance",
-  "video": "https://www.youtube.com/watch?v=YOOQvpMzI_k"
-},
-{
-  "id": 5,
-  "anime": "Evan Call",
-  "name": "Zoltraak",
-  "video": "https://www.youtube.com/watch?v=M7gm_r8hXoU"
-},
-{
-  "id": 6,
-  "anime": "Roselia",
-  "name": "Yakusoku (instrumental)",
-  "video": "https://www.youtube.com/watch?v=xjxwGE2GvdM"
-},
-{
-  "id": 7,
-  "anime": "Natsu",
-  "name": "Regression",
-  "video": "https://www.youtube.com/watch?v=E76IuF6iQCU"
-},
-{
-  "id": 8,
-  "anime": "Evan Call",
-  "name": "Journey of a Lifetime",
-  "video": "https://www.youtube.com/watch?v=nOn0pDmrGco"
-},
-{
-  "id": 9,
-  "anime": "Hans Zimmer",
-  "name": "Oogway Ascends - Orchestra Version",
-  "video": "https://www.youtube.com/watch?v=CqeXOUjJjCY"
-},
-{
-  "id": 10,
-  "anime": "a.hisa",
-  "name": "Logical Stimulus",
-  "video": "https://www.youtube.com/watch?v=ft-HOsTzQQ4"
-},
-{
-  "id": 11,
-  "anime": "goreshit",
-  "name": "2nd dose (here)",
-  "video": "https://www.youtube.com/watch?v=ft4GgXS03NE"
-},
-{
-  "id": 12,
-  "anime": "Chouchou-P",
-  "name": "Sadistic Queen (Inst）",
-  "video": "https://www.youtube.com/watch?v=Nfes_tCO6pE"
-},
-{
-  "id": 13,
-  "anime": "waiting to die",
-  "name": "daydreams",
-  "video": "https://www.youtube.com/watch?v=p0xx8IJy3fQ"
-},
-{
-  "id": 14,
-  "anime": "Demetori",
-  "name": "Necrofantasia",
-  "video": "https://www.youtube.com/watch?v=2WHdrd70X_I"
-},
-{
-  "id": 15,
-  "anime": "Infected Mushroom",
-  "name": "Head of NASA",
-  "video": "https://www.youtube.com/watch?v=PKAeXBCLcUY"
-},
-{
-  "id": 16,
-  "anime": "Yoshihiro Sakaguchi (aka Yuukichan's Papa)",
-  "name": "DuckTales Music (NES) - The Moon Theme",
-  "video": "https://www.youtube.com/watch?v=KF32DRg9opA"
-},
-{
-  "id": 17,
-  "anime": "Nobuyoshi Suzuki",
-  "name": "Ludwig, the Holy Blade",
-  "video": "https://www.youtube.com/watch?v=XCLE0x5jXM4"
-},
-{
-  "id": 18,
-  "anime": "Rengoku-Teien",
-  "name": "Kikoete Imasu ka Bokura no Koe ga...",
-  "video": "https://www.youtube.com/watch?v=7CA_FHIbo2w"
-},
-{
-  "id": 19,
-  "anime": "Aphex Twin",
-  "name": "#20",
-  "video": "https://www.youtube.com/watch?v=cCD8uT9C90M"
-},
-{
-  "id": 20,
-  "anime": "Yuki Kajiura",
-  "name": "Sis Puella Magica!",
-  "video": "https://www.youtube.com/watch?v=wT0lWL_TU7w"
-},
-{
-  "id": 21,
-  "anime": "Ludwig Göransson",
-  "name": "Can You Hear The Music",
-  "video": "https://www.youtube.com/watch?v=4JZ-o3iAJv4"
-},
-{
-  "id": 22,
-  "anime": "L'Antica",
-  "name": "Break Out Serendipity (Off Vocal)",
-  "video": "https://www.youtube.com/watch?v=Cfhzdk5Sgmc"
-},
-{
-  "id": 23,
-  "anime": "ARForest",
-  "name": "The Last Page",
-  "video": "https://www.youtube.com/watch?v=1Z4O8bKoLlU"
-},
-{
-  "id": 24,
-  "anime": "pertyuk music",
-  "name": "RE Aoharu x Luminous Memory",
-  "video": "https://www.youtube.com/watch?v=g_m2jUeWV4w"
-},
-{
-  "id": 25,
-  "anime": "Lorna Shore",
-  "name": "Pain Remains III: In a Sea of Fire (Instrumental)",
-  "video": "https://www.youtube.com/watch?v=0QvYyqQrTRI"
-},
-{
-  "id": 26,
-  "anime": "Hans Zimmer",
-  "name": "Jack Sparrow",
-  "video": "https://www.youtube.com/watch?v=JZeNYaTmVP4"
-},
-{
-  "id": 27,
-  "anime": "SawanoHiroyuki[nZk]",
-  "name": "Avid (instrumental)",
-  "video": "https://www.youtube.com/watch?v=Kqg6a2Bk4uk"
-},
-{
-  "id": 28,
-  "anime": "Matsumoto Fuminori",
-  "name": "Yoru no Himawari",
-  "video": "https://www.youtube.com/watch?v=dQ5g1Va7CjI"
-},
-{
-  "id": 29,
-  "anime": "Akito Matsuda",
-  "name": "Liz and the Blue Bird – Third Movement: “A Decision for Love”",
-  "video": "https://www.youtube.com/watch?v=gURjYF02pIs"
-},
-{
-  "id": 30,
-  "anime": "Gustavo Santaolalla",
-  "name": "The Last of Us",
-  "video": "https://www.youtube.com/watch?v=pfA5UqEU_80"
-}
-]   
+  {
+    "id": 1,
+    "anime": "Yoko Kanno",
+    "name": "hanna",
+    "video": "https://files.catbox.moe/tryuyl.mp4"
+  },
+  {
+    "id": 2,
+    "anime": "Aimer",
+    "name": "Zankyosanka",
+    "video": "https://www.youtube.com/watch?v=tLQLa6lM3Us"
+  },
+  {
+    "id": 3,
+    "anime": "Creepy Nuts",
+    "name": "Otonoke",
+    "video": "https://www.youtube.com/watch?v=tRwHpyOq4P4"
+  },
+  {
+    "id": 4,
+    "anime": "Iron Frill",
+    "name": "Jellyfish",
+    "video": "https://www.youtube.com/watch?v=ZCpNHyXOWnk"
+  },
+  {
+    "id": 5,
+    "anime": "Anna Yanami (CV: Hikaru Tono)",
+    "name": "LOVE 2000",
+    "video": "https://www.youtube.com/watch?v=oXZcuHIR5ko"
+  },
+  {
+    "id": 6,
+    "anime": "Taishi, Kumagai Eri (CV. Asami Seto), Chitose Haru (CV. Manami Nakamura)",
+    "name": "Perfect Free",
+    "video": "https://www.youtube.com/watch?v=LhgYZAg6h1o"
+  },
+  {
+    "id": 7,
+    "anime": "Maximum the Hormone",
+    "name": "Hawatari 2-oku Centi",
+    "video": "https://www.youtube.com/watch?v=HEwAiwttN10"
+  },
+  {
+    "id": 8,
+    "anime": "Oranges & Lemons",
+    "name": "Raspberry heaven",
+    "video": "https://www.youtube.com/watch?v=K3ZtmLaNhbc"
+  },
+  {
+    "id": 9,
+    "anime": "Marina Inoue",
+    "name": "Yuudachi Houteishiki",
+    "video": "https://www.youtube.com/watch?v=aoV0PKHdWXw"
+  },
+  {
+    "id": 10,
+    "anime": "Nujabes",
+    "name": "aruarian dance",
+    "video": "https://www.youtube.com/watch?v=qYcoJpqCha4"
+  },
+  {
+    "id": 11,
+    "anime": "Regallily",
+    "name": "Twinkling Ash",
+    "video": "https://www.youtube.com/watch?v=-2IX1FDR8aw"
+  },
+  {
+    "id": 12,
+    "anime": "MyGO!!!!!",
+    "name": "Utakotoba",
+    "video": "https://www.youtube.com/watch?v=wJ-OebTVyvk"
+  },
+  {
+    "id": 13,
+    "anime": "Ayane",
+    "name": "Itsumo Kono Basho de",
+    "video": "https://www.youtube.com/watch?v=dmmnx4VQmPU"
+  },
+  {
+    "id": 14,
+    "anime": "SawanoHiroyuki[nZk], mizuki",
+    "name": "Avid",
+    "video": "https://www.youtube.com/watch?v=u0CqY27IFyo"
+  },
+  {
+    "id": 15,
+    "anime": "Asami Sanada, Kyoko Hikami, Miyuki Sawashiro",
+    "name": "PARTY☆NIGHT (HYPER PARAPARA VERSION)",
+    "video": "https://www.youtube.com/watch?v=w7of3K1HEAA"
+  },
+  {
+    "id": 16,
+    "anime": "Mary x jon-YAKITORY",
+    "name": "Koko de Ikiteru",
+    "video": "https://www.youtube.com/watch?v=nWwbeG58V6I"
+  },
+  {
+    "id": 17,
+    "anime": "Ling Tosite Sigure",
+    "name": "Abnormalize",
+    "video": "https://www.youtube.com/watch?v=WWBDuVCuiUQ"
+  },
+  {
+    "id": 18,
+    "anime": "B-Komachi",
+    "name": "POP IN 2",
+    "video": "https://www.youtube.com/watch?v=QgxYScXawEE"
+  },
+  {
+    "id": 19,
+    "anime": "TK from Ling tosite sigure",
+    "name": "Signal",
+    "video": "https://www.youtube.com/watch?v=Z42INxQkwCs"
+  },
+  {
+    "id": 20,
+    "anime": "Rena Uehara",
+    "name": "After All ~Tsuzuru Omoi~ '13",
+    "video": "https://www.youtube.com/watch?v=HD5OA_12dVg"
+  },
+  {
+    "id": 21,
+    "anime": "MANNA",
+    "name": "Detekoi Tobikiri ZENKAI Power!",
+    "video": "https://www.youtube.com/watch?v=X92tK_N5214"
+  },
+  {
+    "id": 22,
+    "anime": "Tommy february6",
+    "name": "Tommy Febulatte, Macaron.",
+    "video": "https://www.youtube.com/watch?v=8hwRfcisu-Q"
+  },
+  {
+    "id": 23,
+    "anime": "Cö shu nie",
+    "name": "Zettai Zetsumei",
+    "video": "https://www.youtube.com/watch?v=6WNk9yMNovs"
+  },
+  {
+    "id": 24,
+    "anime": "King Gnu",
+    "name": "BOY",
+    "video": "https://www.youtube.com/watch?v=n0QNaym0jDI"
+  },
+  {
+    "id": 25,
+    "anime": "muque",
+    "name": "The 1",
+    "video": "https://www.youtube.com/watch?v=NefIygtTu-8"
+  },
+  {
+    "id": 26,
+    "anime": "Stereopony",
+    "name": "Tsukiakari no Michishirube",
+    "video": "https://www.youtube.com/watch?v=sSLtqAr32rA"
+  },
+  {
+    "id": 27,
+    "anime": "Hiroki Takahashi",
+    "name": "Makafushigi Adventure",
+    "video": "https://www.youtube.com/watch?v=FJqGirLjQn4"
+  },
+  {
+    "id": 28,
+    "anime": "Inori Minase & Yurika Kubo",
+    "name": "Amadare no Uta",
+    "video": "https://www.youtube.com/watch?v=5epjVow18Xc"
+  },
+  {
+    "id": 29,
+    "anime": "sakanaction",
+    "name": "Kaijuu",
+    "video": "https://www.youtube.com/watch?v=a8dgNdJVluc"
+  },
+  {
+    "id": 30,
+    "anime": "Susumu Hirasawa",
+    "name": "Kingdom",
+    "video": "https://www.youtube.com/watch?v=rMmCGd5ywUU"
+  },
+  {
+    "id": 31,
+    "anime": "Ado",
+    "name": "Tot Musica",
+    "video": "https://www.youtube.com/watch?v=V9_ZpqfqHFI"
+  },
+  {
+    "id": 32,
+    "anime": "fourfolium",
+    "name": "Now Loading!!!!",
+    "video": "https://www.youtube.com/watch?v=GcxGo0XXMgA"
+  },
+  {
+    "id": 33,
+    "anime": "Akari Nanawo",
+    "name": "Ashita no Watashi ni Sachi Are",
+    "video": "https://www.youtube.com/watch?v=Z2icQoPrX9M"
+  }
+]
