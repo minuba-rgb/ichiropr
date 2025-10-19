@@ -1,200 +1,182 @@
 [
   {
     "id": 1,
-    "anime": "Yoko Kanno - hanna",
-    "name": "Zankyou no Terror",
-    "video": "https://files.catbox.moe/tryuyl.mp4"
+    "anime": "YOASOBI",
+    "name": "Yuusha",
+    "video": "https://www.youtube.com/watch?v=OIBODIPC_8Y"
   },
   {
     "id": 2,
-    "anime": "Aimer - Zankyosanka",
-    "name": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-    "video": "https://www.youtube.com/watch?v=tLQLa6lM3Us"
+    "anime": "BAND-MAID",
+    "name": "alone",
+    "video": "https://www.youtube.com/watch?v=axF56i4spio"
   },
   {
     "id": 3,
-    "anime": "Creepy Nuts - Otonoke",
-    "name": "Dandadan",
-    "video": "https://www.youtube.com/watch?v=tRwHpyOq4P4"
+    "anime": "DUSTCELL",
+    "name": "Light",
+    "video": "https://www.youtube.com/watch?v=MQ3Ck0uHKJM"
   },
   {
     "id": 4,
-    "anime": "Iron Frill - Jellyfish",
-    "name": "Zombie Land Saga",
-    "video": "https://www.youtube.com/watch?v=ZCpNHyXOWnk"
+    "anime": "MF DOOM",
+    "name": "Rapp Snitch Knishes (feat. Mr. Fantastik)",
+    "video": "https://www.youtube.com/watch?v=dERcdvcXuE0"
   },
   {
     "id": 5,
-    "anime": "Anna Yanami (CV: Hikaru Tono) - LOVE 2000",
-    "name": "Make Heroine ga Oosugiru!",
-    "video": "https://www.youtube.com/watch?v=oXZcuHIR5ko"
+    "anime": "Tsukuyomi",
+    "name": "Konna inochi ga nakereba",
+    "video": "https://www.youtube.com/watch?v=YaTv86-1-pY"
   },
   {
     "id": 6,
-    "anime": "Taishi, Kumagai Eri (CV. Asami Seto), Chitose Haru (CV. Manami Nakamura) - Perfect Free",
-    "name": "Ongaku Shoujo",
-    "video": "https://www.youtube.com/watch?v=LhgYZAg6h1o"
+    "anime": "Undead Corporation",
+    "name": "Yoru Naku Usagi wa Yume wo Miru",
+    "video": "https://www.youtube.com/watch?v=3Mo1sEJN47c"
   },
   {
     "id": 7,
-    "anime": "Maximum the Hormone - Hawatari 2-oku Centi",
-    "name": "Chainsaw Man",
-    "video": "https://www.youtube.com/watch?v=HEwAiwttN10"
+    "anime": "9Lana",
+    "name": "Parry",
+    "video": "https://www.youtube.com/watch?v=RaeOCHJi4uw"
   },
   {
     "id": 8,
-    "anime": "Oranges & Lemons - Raspberry heaven",
-    "name": "Azumanga Daioh",
-    "video": "https://www.youtube.com/watch?v=K3ZtmLaNhbc"
+    "anime": "inabakumori",
+    "name": "Lost Umbrella",
+    "video": "https://www.youtube.com/watch?v=DeKLpgzh-qQ"
   },
   {
     "id": 9,
-    "anime": "Marina Inoue - Yuudachi Houteishiki",
-    "name": "Owarimonogatari",
-    "video": "https://www.youtube.com/watch?v=aoV0PKHdWXw"
+    "anime": "Bring Me The Horizon",
+    "name": "LosT",
+    "video": "https://www.youtube.com/watch?v=L6tHMDaGgho"
   },
   {
     "id": 10,
-    "anime": "Nujabes - aruarian dance",
-    "name": "Samurai Champloo",
-    "video": "https://www.youtube.com/watch?v=qYcoJpqCha4"
+    "anime": "Ave Mujica",
+    "name": "Symbol I : △",
+    "video": "https://www.youtube.com/watch?v=2O5C0mJx0Fs"
   },
   {
     "id": 11,
-    "anime": "Regallily - Twinkling Ash",
-    "name": "Dungeon Meshi (Delicious in Dungeon)",
-    "video": "https://www.youtube.com/watch?v=-2IX1FDR8aw"
+    "anime": "YOASOBI",
+    "name": "UNDEAD",
+    "video": "https://www.youtube.com/watch?v=Jj1_mfUzjOs"
   },
   {
     "id": 12,
-    "anime": "MyGO!!!!! - Utakotoba",
-    "name": "BanG Dream! It's MyGO!!!!!",
-    "video": "https://www.youtube.com/watch?v=wJ-OebTVyvk"
+    "anime": "BAND-MAID",
+    "name": "One and only",
+    "video": "https://www.youtube.com/watch?v=FkbKXUGMLvA"
   },
   {
     "id": 13,
-    "anime": "Ayane - Itsumo Kono Basho de",
-    "name": "Steins;Gate The Movie – Load Region of Déjà Vu",
-    "video": "https://www.youtube.com/watch?v=dmmnx4VQmPU"
+    "anime": "DUSTCELL",
+    "name": "Monologue (Iori Kanzaki Remix)",
+    "video": "https://www.youtube.com/watch?v=O5fFwCAm_Nk"
   },
   {
     "id": 14,
-    "anime": "SawanoHiroyuki[nZk], mizuki - Avid",
-    "name": "86: Eighty Six",
-    "video": "https://www.youtube.com/watch?v=u0CqY27IFyo"
+    "anime": "MF DOOM",
+    "name": "THAT'S THAT",
+    "video": "https://www.youtube.com/watch?v=eVQq6XVwTzQ"
   },
   {
     "id": 15,
-    "anime": "Asami Sanada, Kyoko Hikami, Miyuki Sawashiro - PARTY☆NIGHT (HYPER PARAPARA VERSION)",
-    "name": "Di Gi Charat",
-    "video": "https://www.youtube.com/watch?v=w7of3K1HEAA"
+    "anime": "Tsukuyomi",
+    "name": "Mayday",
+    "video": "https://www.youtube.com/watch?v=Y_zSSxVyK0U"
   },
   {
     "id": 16,
-    "anime": "Mary x jon-YAKITORY - Koko de Ikiteru",
-    "name": "Tantei wa mou, Shindeiru.",
-    "video": "https://www.youtube.com/watch?v=nWwbeG58V6I"
+    "anime": "Undead Corporation",
+    "name": "Like The Brilliance Of Fairies",
+    "video": "https://www.youtube.com/watch?v=J5WwBBsNbrE"
   },
   {
     "id": 17,
-    "anime": "Ling Tosite Sigure - Abnormalize",
-    "name": "Psycho-Pass",
-    "video": "https://www.youtube.com/watch?v=WWBDuVCuiUQ"
+    "anime": "9Lana",
+    "name": "Propose",
+    "video": "https://www.youtube.com/watch?v=XPLkkdMFmco"
   },
   {
     "id": 18,
-    "anime": "B-Komachi - POP IN 2",
-    "name": "Oshi No Ko",
-    "video": "https://www.youtube.com/watch?v=QgxYScXawEE"
+    "anime": "inabakumori",
+    "name": "Watashi wa Ame",
+    "video": "https://www.youtube.com/watch?v=EEk4JGzqoFg"
   },
   {
     "id": 19,
-    "anime": "TK from Ling tosite sigure - Signal",
-    "name": "91 Days",
-    "video": "https://www.youtube.com/watch?v=Z42INxQkwCs"
+    "anime": "Bring Me The Horizon",
+    "name": "MANTRA",
+    "video": "https://www.youtube.com/watch?v=VAXg78MKJcM"
   },
   {
     "id": 20,
-    "anime": "Rena Uehara - After All ~Tsuzuru Omoi~ '13",
-    "name": "White Album 2",
-    "video": "https://www.youtube.com/watch?v=HD5OA_12dVg"
+    "anime": "Ave Mujica",
+    "name": "Crucifix X",
+    "video": "https://www.youtube.com/watch?v=XP8al1l38Po"
   },
   {
     "id": 21,
-    "anime": "MANNA - Detekoi Tobikiri ZENKAI Power!",
-    "name": "Dragon Ball Z",
-    "video": "https://www.youtube.com/watch?v=X92tK_N5214"
+    "anime": "YOASOBI",
+    "name": "Shukufuku",
+    "video": "https://www.youtube.com/watch?v=3eytpBOkOFA"
   },
   {
     "id": 22,
-    "anime": "Tommy february6 - Tommy Febulatte, Macaron.",
-    "name": "Piroppo",
-    "video": "https://www.youtube.com/watch?v=8hwRfcisu-Q"
+    "anime": "BAND-MAID",
+    "name": "Choose me",
+    "video": "https://www.youtube.com/watch?v=MZIJ2vFxu9Y"
   },
   {
     "id": 23,
-    "anime": "Cö shu nie - Zettai Zetsumei",
-    "name": "The Promised Neverland",
-    "video": "https://www.youtube.com/watch?v=6WNk9yMNovs"
+    "anime": "DUSTCELL",
+    "name": "Hyoujou Sabun",
+    "video": "https://www.youtube.com/watch?v=lB3mij3gmVo"
   },
   {
     "id": 24,
-    "anime": "King Gnu - BOY",
-    "name": "Ranking of Kings",
-    "video": "https://www.youtube.com/watch?v=n0QNaym0jDI"
+    "anime": "MF DOOM",
+    "name": "Dead Bent",
+    "video": "https://www.youtube.com/watch?v=6ohRUPhORzc"
   },
   {
     "id": 25,
-    "anime": "muque - The 1",
-    "name": "One Piece",
-    "video": "https://www.youtube.com/watch?v=NefIygtTu-8"
+    "anime": "Tsukuyomi",
+    "name": "Tsuki ga Michiru",
+    "video": "https://www.youtube.com/watch?v=EtjDLZKL1rc"
   },
   {
     "id": 26,
-    "anime": "Stereopony - Tsukiakari no Michishirube",
-    "name": "Darker than Black: Ryuusei no Gemini",
-    "video": "https://www.youtube.com/watch?v=sSLtqAr32rA"
+    "anime": "Undead Corporation",
+    "name": "Two Worlds",
+    "video": "https://www.youtube.com/watch?v=Q5jWPnF_3DA"
   },
   {
     "id": 27,
-    "anime": "Hiroki Takahashi - Makafushigi Adventure",
-    "name": "Dragon Ball",
-    "video": "https://www.youtube.com/watch?v=FJqGirLjQn4"
+    "anime": "9Lana",
+    "name": "BALALAIKA",
+    "video": "https://www.youtube.com/watch?v=S2Xu6_XWy4M"
   },
   {
     "id": 28,
-    "anime": "Inori Minase and Yurika Kubo - Amadare no Uta",
-    "name": "Girls' Last Tour",
-    "video": "https://www.youtube.com/watch?v=5epjVow18Xc"
+    "anime": "inabakumori",
+    "name": "Lagtrain",
+    "video": "https://www.youtube.com/watch?v=UnIhRpIT7nc"
   },
   {
     "id": 29,
-    "anime": "sakanaction - Kaijuu",
-    "name": "Chi. Chikyuu no Undou ni Tsuite",
-    "video": "https://www.youtube.com/watch?v=a8dgNdJVluc"
+    "anime": "Bring Me The Horizon",
+    "name": "Parasite Eve",
+    "video": "https://www.youtube.com/watch?v=racmy7Y9P4M"
   },
   {
     "id": 30,
-    "anime": "Susumu Hirasawa - Kingdom",
-    "name": "Paranoia agent",
-    "video": "https://www.youtube.com/watch?v=rMmCGd5ywUU"
-  },
-  {
-    "id": 31,
-    "anime": "Ado - Tot Musica",
-    "name": "ONE PIECE FILM RED",
-    "video": "https://www.youtube.com/watch?v=V9_ZpqfqHFI"
-  },
-  {
-    "id": 32,
-    "anime": "fourfolium - Now Loading!!!!",
-    "name": "New Game!",
-    "video": "https://www.youtube.com/watch?v=GcxGo0XXMgA"
-  },
-  {
-    "id": 33,
-    "anime": "Akari Nanawo - Ashita no Watashi ni Sachi Are",
-    "name": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
-    "video": "https://www.youtube.com/watch?v=Z2icQoPrX9M"
+    "anime": "Ave Mujica",
+    "name": "Angles",
+    "video": "https://www.youtube.com/watch?v=MbVgSM7Hhso"
   }
 ]
