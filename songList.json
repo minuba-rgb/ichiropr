@@ -1,164 +1,128 @@
 [
   {
     "id": 1,
-    "anime": "aimaiishitsu",
-    "name": "wave rave",
-    "video": "https://files.catbox.moe/zi5qi2.webm"
+    "anime": "Pendulum",
+    "name": "Watercolour",
+    "video": "https://www.youtube.com/watch?v=tEPB7uzKuh4"
   },
   {
     "id": 2,
-    "anime": "Dire Straits",
-    "name": "Sultans Of Swing",
-    "video": "https://www.youtube.com/watch?v=h0ffIJ7ZO4U"
+    "anime": "Rauli Badding Somerjoki",
+    "name": "Paratiisi",
+    "video": "https://www.youtube.com/watch?v=k3HYCu71Dwo"
   },
   {
     "id": 3,
-    "anime": "SEREBRO",
-    "name": "Malo Tebya (DJ SPIZDIL Remix)",
-    "video": "https://www.youtube.com/watch?v=79xQepKp118"
+    "anime": "Linkin Park",
+    "name": "New Divide",
+    "video": "https://www.youtube.com/watch?v=ysSxxIqKNN0"
   },
   {
     "id": 4,
-    "anime": "Avenged Sevenfold",
-    "name": "Dear God",
-    "video": "https://www.youtube.com/watch?v=mzX0rhF8buo"
+    "anime": "Roger Whittaker",
+    "name": "New world in the morning",
+    "video": "https://www.youtube.com/watch?v=r9nz_KfxSAM"
   },
   {
     "id": 5,
-    "anime": "Burial",
-    "name": "Archangel",
-    "video": "https://www.youtube.com/watch?v=afyABj8oFVI"
+    "anime": "Broken By The Scream",
+    "name": "Troublemaker",
+    "video": "https://www.youtube.com/watch?v=uE-VSGj3twQ"
   },
   {
     "id": 6,
-    "anime": "OneRepublic",
-    "name": "Counting Stars",
-    "video": "https://www.youtube.com/watch?v=hT_nvWreIhg"
+    "anime": "Robbie Williams",
+    "name": "Angels",
+    "video": "https://www.youtube.com/watch?v=luwAMFcc2f8"
   },
   {
     "id": 7,
-    "anime": "Rammstein",
-    "name": "Deutschland",
-    "video": "https://www.youtube.com/watch?v=NeQM1c-XCDc"
+    "anime": "Kobaryo",
+    "name": "Bookmaker",
+    "video": "https://www.youtube.com/watch?v=-JsJr4zrXWg"
   },
   {
     "id": 8,
-    "anime": "Feint ft. Veela",
-    "name": "The Journey",
-    "video": "https://www.youtube.com/watch?v=knbkFOvfucQ"
+    "anime": "Scorpions",
+    "name": "Still Loving You",
+    "video": "https://www.youtube.com/watch?v=7pOr3dBFAeY"
   },
   {
     "id": 9,
-    "anime": "Hilltop Hoods",
-    "name": "The Nosebleed Section",
-    "video": "https://www.youtube.com/watch?v=sC2n3oOPOH4"
+    "anime": "Neljä Ruusua",
+    "name": "Poplaulajan Vapaapäivä",
+    "video": "https://www.youtube.com/watch?v=4UCLbQpWqMM"
   },
   {
     "id": 10,
-    "anime": "Foals",
-    "name": "Spanish Sahara",
-    "video": "https://www.youtube.com/watch?v=eYoINidnLRQ"
+    "anime": "Watain",
+    "name": "They Rode On",
+    "video": "https://www.youtube.com/watch?v=29nvdkIxIpY"
   },
   {
     "id": 11,
-    "anime": "KORDHELL",
-    "name": "KILLERS FROM THE NORTHSIDE",
-    "video": "https://www.youtube.com/watch?v=DK6IRG4CAbw"
+    "anime": "Lana Del Rey",
+    "name": "Happiness is a butterfly",
+    "video": "https://www.youtube.com/watch?v=nbcXvlEa7Wk"
   },
   {
     "id": 12,
-    "anime": "The Killers",
-    "name": "Mr. Brightside",
-    "video": "https://www.youtube.com/watch?v=l7MaKmKJqoc"
+    "anime": "Deep Purple",
+    "name": "Smoke On the Water",
+    "video": "https://www.youtube.com/watch?v=Q2FzZSBD5LE"
   },
   {
     "id": 13,
-    "anime": "Opeth",
-    "name": "Bleak",
-    "video": "https://www.youtube.com/watch?v=5Zdg4Sbefg4"
+    "anime": "Juice WRLD",
+    "name": "Legends",
+    "video": "https://www.youtube.com/watch?v=dIzgiclddlM"
   },
   {
     "id": 14,
-    "anime": "Mr. Kitty",
-    "name": "After Dark",
-    "video": "https://www.youtube.com/watch?v=Cl5Vkd4N03Q"
+    "anime": "BAD OMENS",
+    "name": "Dying To Love",
+    "video": "https://www.youtube.com/watch?v=4xq5QzNG-m8"
   },
   {
     "id": 15,
-    "anime": "The Arrogant Sons of Bitches",
-    "name": "So Let's Go Nowhere",
-    "video": "https://www.youtube.com/watch?v=NSttWmdJyOo"
+    "anime": "Rainbow",
+    "name": "I Surrender",
+    "video": "https://www.youtube.com/watch?v=z5lPjVHitCs"
   },
   {
     "id": 16,
-    "anime": "Ghost",
-    "name": "Mary On A Cross",
-    "video": "https://www.youtube.com/watch?v=k5mX3NkA7jM"
+    "anime": "POPPY, AMY LEE, COURTNEY LAPLANTE",
+    "name": "End of You",
+    "video": "https://www.youtube.com/watch?v=3rS83uI0Wak"
   },
   {
     "id": 17,
-    "anime": "Astrophysics",
-    "name": "Out Of Touch Thursday!",
-    "video": "https://www.youtube.com/watch?v=zZdVwTjUtjg"
+    "anime": "The Cranberries",
+    "name": "Zombie (Alt. Version)",
+    "video": "https://www.youtube.com/watch?v=95HqlWRFrAk"
   },
   {
     "id": 18,
-    "anime": "Kansas",
-    "name": "Carry on Wayward Son",
-    "video": "https://www.youtube.com/watch?v=P5ZJui3aPoQ"
+    "anime": "At Vance",
+    "name": "The Winner Takes It All",
+    "video": "https://www.youtube.com/watch?v=xpphPS0SLAU"
   },
   {
     "id": 19,
-    "anime": "Memtrix",
-    "name": "All You Are",
-    "video": "https://www.youtube.com/watch?v=LSxzzDE38t8"
+    "anime": "Keldian",
+    "name": "Sundancer",
+    "video": "https://www.youtube.com/watch?v=YcZVllIPBWE"
   },
   {
     "id": 20,
-    "anime": "Chadolf Rizzler",
-    "name": "Neckhurts",
-    "video": "https://www.youtube.com/watch?v=7kF3_IFPaJA"
+    "anime": "Amorphis",
+    "name": "Amongst Stars",
+    "video": "https://www.youtube.com/watch?v=Jg2VqUTNjsw"
   },
   {
     "id": 21,
-    "anime": "Poshlaya Molly",
-    "name": "Budu tvoim pjosikom",
-    "video": "https://www.youtube.com/watch?v=6cHVdvRoJ2w"
-  },
-  {
-    "id": 22,
-    "anime": "Jeff Williams",
-    "name": "Die (feat. Casey Lee Williams)",
-    "video": "https://www.youtube.com/watch?v=hLAnEzgav1s"
-  },
-  {
-    "id": 23,
-    "anime": "Netrum & Halvorsen",
-    "name": "Phoenix",
-    "video": "https://www.youtube.com/watch?v=yH88qRmgkGI"
-  },
-  {
-    "id": 24,
-    "anime": "Eminem",
-    "name": "Lose Yourself",
-    "video": "https://www.youtube.com/watch?v=xFYQQPAOz7Y"
-  },
-  {
-    "id": 25,
-    "anime": "Paramore",
-    "name": "Misery Business",
-    "video": "https://www.youtube.com/watch?v=aCyGvGEtOwc"
-  },
-  {
-    "id": 26,
-    "anime": "Vaenus",
-    "name": "Toradoramoraforaloragora (2019 Rework)",
-    "video": "https://www.youtube.com/watch?v=kQmAPZkYPxM"
-  },
-  {
-    "id": 27,
-    "anime": "Linkin Park",
-    "name": "One More Light",
-    "video": "https://www.youtube.com/watch?v=Tm8LGxTLtQk"
+    "anime": "Disturbed",
+    "name": "The Sound Of Silence (CYRIL Remix)",
+    "video": "https://www.youtube.com/watch?v=uIBJJ3M76Mg"
   }
 ]
